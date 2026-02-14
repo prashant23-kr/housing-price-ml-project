@@ -1,0 +1,5 @@
+model.pkl
+pipeline.pkl
+.vscode/
+__pycache__/
+*.pyc
